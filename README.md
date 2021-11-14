@@ -1,2 +1,2 @@
 # MC_Policy_SCM
-Impact of MC Policy on Fertility Rates in Russia using SCM
+Estimating the impact of the 2007 Maternity Capital Policy on Fertility Rates in Russia
